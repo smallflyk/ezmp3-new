@@ -1,18 +1,25 @@
 # EZMP3
 
-<em> Powered by Youtube-in-mp3.com <em>
+一个简洁易用的YouTube视频转MP3工具
 
-A sleek, single-page, easy to navigate Youtube video viewer/converter/downloader. Easily find, watch, convert to mp3, and download your favorite
-songs. Built over a one week period while I was at home after a tonsillectomy.
+## 功能特点
 
-## Goals
+- **简单操作**：一站式视频搜索、观看、转换和下载
+- **用户友好**：清爽界面设计，操作流程直观
+- **高效转换**：快速将YouTube视频转为MP3格式
+- **历史记录**：便捷查看和管理转换历史
 
-1) Save myself time by removing a step from the workflow of converting a song on Youtube -> mp3 on my phone. 
-2) Learn a bit on how to query the Youtube Data API, and gain more experience in general with working with APIs.
+## 技术亮点
 
-## Result? 
+- 整合YouTube数据API实现视频搜索
+- 优化文件流处理机制实现高效下载
+- 响应式设计确保多平台良好体验
 
-I achieved goals 1 and 2, but in the process, I also achieved the following:
+## 使用方法
 
-1) Learned more about the converting a file to an InputStream/FileStream in order to download an mp3 file.
-2) Discovered how scarce any APIs on converting videos to mp3s actually were.
+1. 在搜索框输入关键词
+2. 从搜索结果中选择视频
+3. 点击转换按钮
+4. 下载MP3文件
+
+简单、高效、无繁琐步骤。
